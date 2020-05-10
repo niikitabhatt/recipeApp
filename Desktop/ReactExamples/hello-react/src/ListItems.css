@@ -1,0 +1,29 @@
+.list{
+   height: fit-content;
+   background-color: cadetblue;
+   width: 50%;
+   margin: 20px  auto;
+   border-radius: 5px;
+}
+.list p{
+   padding: 10px; 
+   position : relative;
+   display: block;
+}
+.list p span{
+   right: 10px;
+   position: absolute;
+   cursor: pointer;
+}
+.list p input{
+   width: 80%;
+   background-color: transparent;
+   border: 0;
+   position: relative;
+   font-size: 18px;
+   outline: none
+}
+.faicon{
+   margin: 0 5px;
+   font-size: 15px;
+}
