@@ -58,7 +58,7 @@ class App extends Component {
         items: items
       })
   }
-  render() {
+  render()  {
     return (
       <div className="App">
         <div>
